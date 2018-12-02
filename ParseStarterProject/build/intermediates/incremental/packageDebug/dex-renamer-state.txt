@@ -1,0 +1,7 @@
+#Sat Feb 03 17:59:42 EST 2018
+base.0=C\:\\Whatsapp\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bcaa969c6cbe63d48065a32f7bb10bbceb14b547
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=C\:\\Whatsapp\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_adfe600bb6deb10badf54f50e8cf0c13e55a3edb\\classes.dex
+base.1=C\:\\Whatsapp\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_adfe600bb6deb10badf54f50e8cf0c13e55a3edb
+file.0=C\:\\Whatsapp\\ParseStarterProject\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_bcaa969c6cbe63d48065a32f7bb10bbceb14b547\\classes.dex

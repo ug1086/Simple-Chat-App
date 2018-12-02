@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "C:\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\umang\\.android\\build-cache\\4fb3f71880615925c4a2208559aeb6cc1dc5c229\\output\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\umang\\.android\\build-cache\\3366c96383714ed907326f6405461562633708eb\\output\\res\\layout-v21\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action.xml",
+        "source": "C:\\Users\\umang\\.android\\build-cache\\4fb3f71880615925c4a2208559aeb6cc1dc5c229\\output\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\umang\\.android\\build-cache\\4fb3f71880615925c4a2208559aeb6cc1dc5c229\\output\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\notification_template_custom_big.xml",
+        "source": "C:\\Users\\umang\\.android\\build-cache\\4fb3f71880615925c4a2208559aeb6cc1dc5c229\\output\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "C:\\Whatsapp\\ParseStarterProject\\build\\intermediates\\res\\merged\\debug\\layout-v21\\activity_main.xml",
+        "source": "C:\\Whatsapp\\ParseStarterProject\\src\\main\\res\\layout-v21\\activity_main.xml"
+    }
+]
